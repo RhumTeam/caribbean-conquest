@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+  <player id="PL_5643"/>
+  <player id="PL_7581"/>
+
+  <ship id="SH_1278" pos_x="0012" pos_y="0050" owner="PL_5643" type="galion" content="57W82F65M100G4c2a3m5g10f7p"/>
+  <ship id="SH_4257" pos_x="0020" pos_y="0040" owner="PL_5643" type="galion" content="57W82F65M100G4c2a3m5g10f7p"/>
+  <ship id="SH_9873" pos_x="0012" pos_y="0050" owner="PL_7581" type="galion" content="57W82F65M100G4c2a3m5g10f7p"/>
+
+  <port id="PO_0962" pos_x="0012" pos_y="0050" owner="PL_5643" gold_remaining="251" production="5W2F6M1G" op_in_progress="5Tr28%" content="57W82F65M100G0c2a3m5g10f7p">
+     <trade id="TR_8752" content="100W" price="10G"/>
+     <trade id="TR_5124" content="100G" price="200M"/>
+  </port>
+</world>
