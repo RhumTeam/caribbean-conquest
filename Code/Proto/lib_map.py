@@ -82,7 +82,7 @@ I_SHIPS_TYPE=3
 I_SHIPS_CONTENT=4
 I_SHIPS_LEN=5
 
-def port_clear():
+def ship_clear():
    g_ships={}
 
 def ship_new(id, pos_x, pos_y, id_owner, ship_type, content):
